@@ -4,9 +4,10 @@ Code and data for paper "Low-resolution Palmprint Image Denoising by Generative 
 # Database
 Noisy Low-Resolution Palmprint Image (NLRPI)
 Download:
-1. Google drive:
-2. Baidu drive:
-Remark
+1. Google drive: https://drive.google.com/file/d/1HBj9ArlMQeBgc-z-0eCJnQh4AorlDwgV/view?usp=sharing
+2. Baidu drive: https://pan.baidu.com/s/1zhrRzpf0x__26CSEMsq4Ug   Fetch Code: 003f
+
+# Remark
 The Noisy Low-Resolution Palmprint Image (NLRPI) Database is free to the academic community for research purpose usage only.
 
 # Citation
